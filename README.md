@@ -1,10 +1,6 @@
 # Cool Generator
 
----
-
-<div style="display: flex;justify-content: center;">
-<img src="docs/project.png">
-</div>
+![Project logo](docs/project.png)
 
 No, it's not cool at all. LOL.
 
