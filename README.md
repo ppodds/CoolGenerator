@@ -10,6 +10,11 @@ Cool Generator is a very cool command line program to generate cool images.
 
 If you have any cool idea, pull requests are welcome!
 
+## Demo
+
+![demo1](docs/demo1.png)
+![demo2](docs/demo2.png)
+
 ## Install
 
 ```shell
